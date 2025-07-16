@@ -1,11 +1,11 @@
 # Week 2 | Computer Systems and Applications2.1
 
 ## Task 1. View Computer Information
-![information of computer](./images/week2tasks2.1.png)
-![information of computer](./images/week2task2.2.png)
-![information of computer](./images/week2task2.3.png)
-![information of computer](./images/week2task2.4.png)
-![information of computer](./images/week2task2.5.png)
+![information of computer](./build/week2tasks2.1.png)
+![information of computer](./build/week2task2.2.png)
+![information of computer](./build/week2task2.3.png)
+![information of computer](./build/week2task2.4.png)
+![information of computer](./build/week2task2.5.png)
 Processor =  Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
 
 RAM = 8433930240 Bytes or 7.85470962524414 GB ( 1 GB = 1073741824 bytes)
@@ -14,13 +14,13 @@ OSversion =  10.0.26100
 
 Total Disk size =  (1000204886016 + 500107862016)bytes = 1500312748032 Bytes or 1.36452649533749 TB 
 
-![information of disksize](./images/week2task2.6.png)
+![information of disksize](./build/week2task2.6.png)
 
 ## Task 3. Deploy Linux Web Server
 A boot manager is a program that chooses which operating system to load from the available storage media during a computer's starting. The Boot Manager enables the user to select the preferred operating system on computers. Having several OS installs, such as dual-boot or multi-boot configurations, boot manager is essential. In the root in OpenWRT command ls / will show the all system directories. Now using ls /boot command will provide the boot manager which is grub, widely used in linux systems.
 
 Kernel, a core component, is controlling hardware connectivity and system resources. It manages input-output activities, memory management, and process scheduling, hardware-software interactions and resource allocation to guarantee seamless system functioning. uname -r is the command to identify kernel in WRT, which is 5.10.161
-![information of kernel and boot manager](./images/week2_task3.png)
+![information of kernel and boot manager](./build/week2_task3.png)
 
 Virtualbox: With the help of the free program VirtualBox, you may build and operate virtual machines on your own PC. This lets you try out different operating systems, like Linux on a Windows machine, without affecting your main system.
 
@@ -37,9 +37,9 @@ Comparison:
 2.The AI written includes so many technical terms which are not known for the newcomer on the other hand simplified one gives the basic term which can be understood by anyone.
 
 ## Task 4. Browse to OpenWRT Websites
-![information of website](./images/week2task4.3.png)
-![information of website](./images/week2task4.1.png)
-![information of website](./images/week2task4.2.png)
+![information of website](./build/week2task4.3.png)
+![information of website](./build/week2task4.1.png)
+![information of website](./build/week2task4.2.png)
 
 Memory (RAM)
 
